@@ -1,0 +1,2 @@
+# rushdb
+Database of Rush
